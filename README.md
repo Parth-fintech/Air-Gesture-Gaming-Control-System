@@ -1,5 +1,7 @@
 # Air Gesture Gaming Controller
 
+*Built by [Sebastian Neira](https://github.com/MateoNeiraCastillo) & [Parth Deshmukh](https://github.com/Parth-fintech)*
+
 [![tests](https://github.com/MateoNeiraCastillo/air-gesture-controller/actions/workflows/tests.yml/badge.svg)](https://github.com/MateoNeiraCastillo/air-gesture-controller/actions/workflows/tests.yml)
 
 ![Playing Subway Surfers with thumb gestures](docs/demo.webp)
@@ -141,4 +143,7 @@ Results and design decisions are in [docs/](docs/).
 
 ## Authors
 
-Mateo Neira Castillo and Parth Deshmukh.
+Built together by:
+
+- **Mateo Sebastian Neira Castillo** · [GitHub](https://github.com/MateoNeiraCastillo) · [LinkedIn](https://www.linkedin.com/in/mateo-sebastian-neira-castillo-9514b5351/)
+- **Parth Deshmukh** · [GitHub](https://github.com/Parth-fintech) · [Instagram](https://instagram.com/flyforfleek)
